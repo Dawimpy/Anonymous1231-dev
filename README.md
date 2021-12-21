@@ -6,3 +6,5 @@
 👨‍💻 I'm now learning shell,python and Lua
 
 🐧 Also a Linux enjoyer!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/NoNameMan1231/github-profile-trophy)
