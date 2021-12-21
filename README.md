@@ -8,5 +8,4 @@
 🐧 Also a Linux enjoyer!
 
 ### My stats
-
-[![trophy](https://github.com/NoNameMan1231/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NoNameMan1231&theme=onedark)](https://github.com/NoNameMan1231/github-profile-trophy)
