@@ -11,3 +11,4 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoNameMan1231&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=NoNameMan1231&hide=html&layout=compact&theme=radical)
