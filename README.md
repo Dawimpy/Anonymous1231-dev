@@ -1,7 +1,7 @@
 ### Hi there :P 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anonymous1231-dev&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anonymous1231-dev&show_icons=true&theme=nord)
 
 👨‍💻 I'm now learning shell,python and Lua
 
