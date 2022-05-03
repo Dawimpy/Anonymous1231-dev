@@ -10,6 +10,6 @@
 ### My stats
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anonymous1231&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anonymous1231-dev&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous1231&hide=html&layout=compact&theme=nord)
+![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous1231-dev&hide=html&layout=compact&theme=nord)
